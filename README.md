@@ -2,6 +2,7 @@
 #### manage(lv = 0만 사용가능)
 1. **user**
 Method | Url | Detail
+---- | ---- | ---- | ----
  GET | /manage/user | 유저 정보 리스트를 반환한다.
  PUT | /manage/user/{ _id } | 유저 정보 수정 API.
  DELETE | /manage/user/{ _id } | 유저 정보 삭제 API.
